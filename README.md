@@ -51,4 +51,4 @@ Some of the lines of code/tools used involved:
  3. The Male Employees were rated more than the Female employees, and the work output and efficiency of the Male Male Gender was more than that of the Female.
  4. The company did not meet the requirement for minimum wage because workers who earn less than the minumum wage are significantly higher than those who are paid.
  5. Lagos region showed to be the region where the Male gender Was paid higher than the Female gender
- 6. The Marketing and Training Department showed that the Males earned more than the Females. 
+ 6. The Marketing, Engineering and Training Department showed that the Males earned more than the Females. 
